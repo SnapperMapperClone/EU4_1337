@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+primary_culture = armenian
+religion = coptic
+technology_group = eastern
+capital = 327
+
+1320.1.1 = {
+	monarch = {
+		name = "Levon IV"
+		dynasty = "Hethumian"
+		birth_date = 1309.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+

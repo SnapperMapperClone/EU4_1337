@@ -7,13 +7,13 @@ technology_group = ottoman
 capital = 2297	# Saruhan
 
 
-1388.1.1 = {
+1313.1.1 = {
 	monarch = {
-		name = "Hizir I"
+		name = "Saruhan I"
 		dynasty = "Saruhanoglu"
-		adm = 1
+		birth_date = 1273.1.1
+		adm = 2
 		dip = 2
-		mil = 0
+		mil = 1
 	}
-	add_piety = -0.1
 }
